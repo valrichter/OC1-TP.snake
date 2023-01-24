@@ -7,4 +7,4 @@ En base a un template que nos proporciona la "interfaz grafica" crear el juego d
 
 #### ACLARACIONES
 1) Cada linea de codigo esta explicada en el propio codigo
-2) Para ejecutar y probar el codigo se utilizo una Raspberri P
+2) Para ejecutar y probar el codigo se utilizo una Raspberri Pi
