@@ -10,7 +10,7 @@ En base a un template que nos proporciona la "interfaz grafica" crear el juego d
 2\) Para ejecutar y probar el codigo se utilizo una QEMU con Raspberri Pi OS y PuTTY <br>
 3\) Es un programa en lenguaje ensamblador ARM, por lo cual debe ser ejecutado en un procesador ARM o dentro de un emulador. <br>
 
-#### COMO CORRERLO
+#### COMO CORRER EL JUEGO
 Abrir una consola dentro de Raspbian y ejecutar los sigueintes comandos: <br>
 1\) as -g -o snake.o snake.asm <br>
 2\) gcc -o snake snake.o <br>
