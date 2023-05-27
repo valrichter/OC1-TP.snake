@@ -22,4 +22,4 @@ El juego solo acepta una de estas 5 opciones y tiene un maximo de 5 niveles
 - S (Abajo)
 - D (Derecha)
 - A (Izquierda)
-- Enter (hacer movimiento seleccionado) \n
+- Enter (hacer movimiento seleccionado)
