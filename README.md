@@ -24,4 +24,4 @@ El juego solo acepta una de estas 5 opciones y tiene un maximo de 5 niveles
 - A (Izquierda)
 - Enter (hacer movimiento seleccionado)
 
- [VIDEO DEMO](https://youtu.be/708RPzuk68g){:target="_blank"}
+<a href="https://www.google.com" target="_blank">Visita Google</a>
